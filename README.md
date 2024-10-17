@@ -18,7 +18,7 @@
 - 🤝 I’m looking for help with **design**
 - 👨‍💻 All of my projects are available at https://sayedsinan.github.io/MyPortfolio/
 - 💬 Ask me about **Flutter, Firebase.**
-- 📫 How to reach me **sayedsinan7gmail.com**
+- 📫 How to reach me **sayedsinanjifry7gmail.com**
 - ⚡ Fun fact **I can play Guitar**
 
 <h3 align="left">Connect with me:</h3>
