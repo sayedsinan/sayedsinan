@@ -25,7 +25,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/sinan jifry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinan jifry" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sinan-jifry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinan jifry" height="30" width="40" /></a>
 
 <a href="https://instagram.com/_sayed_sinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sayed_sinan" height="30" width="40" /></a>
 
