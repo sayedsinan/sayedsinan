@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedsinan" alt="sayedsinan" /></a> </p>
 
-
 - 🌱 I’m currently learning **Typescript, node**
 - 👯 I’m looking to collaborate on **more projects**
 - 🤝 I’m looking for help with **design**
